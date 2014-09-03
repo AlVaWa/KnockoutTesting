@@ -37,4 +37,5 @@ com_crashlytics_export_strings.xml
 
 # node
 node_modules/
+npm-debug.log
 
