@@ -1,0 +1,10 @@
+{
+  "name": "knockout",
+  "dependencies": {
+    "requirejs": "^2.1.11",
+    "jquery": "^2.1.0",
+    "knockout.js": "^3.0.0",
+    "bootstrap-sass": "^3.0.2"
+  }
+}
+
