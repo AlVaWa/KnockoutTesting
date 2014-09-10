@@ -5,10 +5,10 @@ define(['jquery',
     'knockout',
     '../../assets/js/models/knockoutTutorial.js',
     'jquery.bootstrap'
-    ], function ($, ko, AppViewModel) {
+    ], function ($, koko, AppViewModel) {
 
-  var UI = new AppViewModel();
+  var GUI = new AppViewModel();
 
-  ko.applyBindings(UI);
+  koko.applyBindings(GUI);
 
 });

@@ -4,11 +4,15 @@ require.config({
   paths: {
     'bower_components': '../../bower_components',
     'jquery': '../../bower_components/jquery/dist/jquery',
-    'jquery.bootstrap': '../../bower_components/bootstrap-sass/dist/js/bootstrap'
+    'jquery.bootstrap': '../../bower_components/bootstrap-sass/dist/js/bootstrap',
+    'sammy': 'sammy'
   },
   shim: {
     'jquery.bootstrap': {
       deps: ['jquery']
+    },
+    'sammy':{
+        deps:['jquery']
     }
   },
   map: {

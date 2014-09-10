@@ -1,4 +1,4 @@
-{mails: [{
+{"mails":[{
     "id": 13,
     "from": "adele.guyuson@hat-chicken6.xyz",
     "to": "steve@example.com",
@@ -474,5 +474,4 @@
         "date": "May 12, 2011",
         "subject": "Somebody invited you to join eReaders Community",
         "folder": "Spam"
-    }]
-}
+    }]}
